@@ -1,0 +1,23 @@
+/**************************************************************************
+*   *Debug styles
+**************************************************************************/
+.viewport-desktop > .FinKitSection > * {
+   border: 1px solid green;
+}
+.viewport-desktop > .FinKitSection {
+   height: 100px;
+   border: 1px solid;
+}
+
+.viewport-desktop > .FinKitSection > .LanguageBar {
+   height: 40px;
+   /*border: 1px solid;*/
+}
+
+/**************************************************************************
+*   *Main styles
+**************************************************************************/
+.viewport-desktop > .FinKitSection {
+   background-color: #CBECFF;
+}
+
